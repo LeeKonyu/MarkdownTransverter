@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MarkdownTrans:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cf1d800-0a42-4478-aa66-851182eef0cf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/main/Execute.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1702#1703#0" expanded="true" />
+                <element signature="e#1735#1736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/upload/UseJsoup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-160">
+              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/utils/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/constant/StaticConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/oss/AliyunOSSClientUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1634">
+              <caret line="108" column="36" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="36" />
+              <folding>
+                <element signature="docComment;method#UseOSSClient#0;class#AliyunOSSClientUtil#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section</find>
+      <find>data-src</find>
+      <find>OSS</find>
+      <find>Date</find>
+      <find>date</find>
+      <find>shutdown</find>
+      <find>text</find>
+      <find>文件不</find>
+      <find>md</find>
+      <find>put</find>
+      <find>15839342845288901.gif</find>
+      <find>objectName</find>
+      <find>system.c</find>
+      <find>oss</find>
+      <find>System.out.println(src);</find>
+      <find>exist</find>
+      <find>System.out.println(src</find>
+      <find>Aliyun</find>
+      <find>stringformat</find>
+      <find>uploadFile</find>
+      <find>System.c</find>
+      <find>thumbnail</find>
+      <find>numberOfFileList</find>
+      <find>logger</find>
+      <find>OSSClientConstants</find>
+      <find>connectUrl</find>
+      <find>mdNumber</find>
+      <find>content</find>
+      <find>System.out.println</find>
+      <find>开始执行</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>OSSClientUtil</replace>
+      <replace>endpoint</replace>
+      <replace>accessKeyId</replace>
+      <replace>accessKeySecret</replace>
+      <replace>bucketName</replace>
+      <replace>fileOSSDir</replace>
+      <replace>StaticConstants</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/test.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/a.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/TestJsoupParseHtml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/createIgnoreVerifySSL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/DealWithPic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/HtmlJsoup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/DealWithLinks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/DealDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lky/PicTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lky/TextTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/ossTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lky/oss/OSSClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/oss/OSSClientConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/upload/useJsoup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lky/ModifySrc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/constant/OSSClientConstants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/oss/AliyunOSSClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/utils/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/upload/UseJsoup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/constant/StaticConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lky/main/Execute.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="530" />
+    <option name="y" value="150" />
+    <option name="width" value="1395" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="markdownTrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markdownTrans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markdownTrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markdownTrans" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markdownTrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markdownTrans" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markdownTrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markdownTrans" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="MarkdownTrans_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markdownTrans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markdownTrans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15088758" />
+    <property name="project.structure.side.proportion" value="0.46040723" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Execute">
+    <configuration name="AliyunOSSClientUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lky.oss.AliyunOSSClientUtil" />
+      <module name="MarkdownTrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lky.oss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lky.main.Execute" />
+      <module name="MarkdownTrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lky.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseJsoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lky.upload.UseJsoup" />
+      <module name="MarkdownTrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lky.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifySrc.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarkdownTrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lky" />
+      <option name="MAIN_CLASS_NAME" value="com.lky.ModifySrc" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifySrc.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MarkdownTrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lky.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lky" />
+      <option name="MAIN_CLASS_NAME" value="com.lky.ModifySrc" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Execute" />
+        <item itemvalue="JUnit.ModifySrc.test4" />
+        <item itemvalue="Application.UseJsoup" />
+        <item itemvalue="JUnit.ModifySrc.test3" />
+        <item itemvalue="Application.AliyunOSSClientUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cf1d800-0a42-4478-aa66-851182eef0cf" name="Default Changelist" comment="" />
+      <created>1583633288954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583633288954</updated>
+      <workItem from="1583633294217" duration="4788000" />
+      <workItem from="1583646760939" duration="5814000" />
+      <workItem from="1583713300781" duration="18357000" />
+      <workItem from="1583754140726" duration="5558000" />
+      <workItem from="1583762362361" duration="2291000" />
+      <workItem from="1583810683108" duration="3107000" />
+      <workItem from="1583816682947" duration="16106000" />
+      <workItem from="1583838551899" duration="2971000" />
+      <workItem from="1583856143361" duration="1794000" />
+      <workItem from="1583885234982" duration="20311000" />
+      <workItem from="1583920121412" duration="13587000" />
+      <workItem from="1583971787417" duration="12945000" />
+      <workItem from="1583996729262" duration="533000" />
+      <workItem from="1584001297985" duration="974000" />
+      <workItem from="1584002321165" duration="561000" />
+      <workItem from="1584002914250" duration="711000" />
+      <workItem from="1584068845549" duration="402000" />
+      <workItem from="1584318431594" duration="7000" />
+      <workItem from="1584321816618" duration="716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ModifySrc_test3 - 2020.03.11 at 21h 24m 17s.xml">
+      <configuration name="ModifySrc.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test3 - 2020.03.12 at 08h 48m 53s.xml">
+      <configuration name="ModifySrc.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test3 - 2020.03.12 at 08h 49m 38s.xml">
+      <configuration name="ModifySrc.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 09h 13m 32s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 09h 14m 16s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 09h 15m 59s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 09h 19m 44s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 10h 52m 39s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 10h 55m 08s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModifySrc_test4 - 2020.03.12 at 10h 57m 42s.xml">
+      <configuration name="ModifySrc.test4" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111533000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21179625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30975956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281471" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/createIgnoreVerifySSL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/TestJsoupParseHtml.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/DealDemo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.12.1/jsoup-1.12.1.jar!/org/jsoup/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/DealWithLinks.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/a.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lky/oss.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lky/TextTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lky/PicTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/ossTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/HtmlJsoup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/DealWithPic.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lky/oss/OSSClientUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/oss/OSSClientConstants.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lky/ModifySrc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/constant/StaticConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/oss/AliyunOSSClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="108" column="36" selection-start-line="108" selection-start-column="36" selection-end-line="108" selection-end-column="36" />
+          <folding>
+            <element signature="docComment;method#UseOSSClient#0;class#AliyunOSSClientUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/upload/UseJsoup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lky/main/Execute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1702#1703#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MarkdownTrans:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46040723" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MarkdownTrans</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46040723" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
